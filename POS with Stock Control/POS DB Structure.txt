@@ -1,0 +1,15 @@
+Table - INGREDIENTS
+IngredientID(Primary Key)       Name        Quantity        CostPrice       MinOrderLvl
+        '2'                    'Tomato'      '100'           '1.2'             '200'
+
+Table - MENU
+MenuID(Primary Key)     Type        Name        Description     MealPrice
+        '6'            'Main'     'Lamb Shish'     'Grilled'      '5.76'
+
+Table - MENUINGREDIENTS
+MenuIngID(Primary Key)      IngredientID(Foreign Key)       MenuID(Foreign Key)
+        '0'                         '2'                             '6'
+
+Table - SUPPLIERS
+SupplierID(Primary Key)     Name              Address            Telephone
+        '0'                 'Johnsons ltd'    '121 J road'          '00988981832'

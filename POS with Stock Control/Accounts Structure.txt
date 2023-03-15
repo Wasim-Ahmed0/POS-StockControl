@@ -1,0 +1,17 @@
+FNAME           LNAME           USERNAME         NO NAME     PASSWORD                                  ROLE
+Daniel          Parks           DaOne17         daniscool    649e20458b29e8de6694361a7c12aef7a69fee74   WT
+Callum          Shakes          CSimp09         caliscool    f54f937f089a3e9baab008494b97e9602b28c6da   WT
+Linda           Parks           LFP1987         CadburyChoc  a3daa7b5edbbb7987a44dfc9bb08d46c855a55b8   WT
+Ben             Pinder          BP171           Beniscool    facd26625f24ee5b3e88305826664a43266bd75a   CR
+Jeff            Ross            JRB777          Pancakes66   7c4f86bb605050897d6b7f007ae494eb74a64c4a   CR
+Anne            Frankie         AF4545          Kebabs18     48fec1d54cf58213903482138642ab9efd9269fe   KT
+Jack            Coyne           JC751           chips0909    938351f97b2c1daa3eda50ee8fcaf2821ccf7ab1   KT
+Lily            Parthy          LPjokes12       Formula1     3dfe26c1e426a0b38f9ac9d3c04b62190fe6e727   KT
+Gordan          Ramsay          GR123           LambSauce1   7f37ba97d8ddbd896cda5e3377c5708bd80081de   HC
+Wasim           Ahmed           WAhmed007       password     5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8   MA
+
+WT = Waiter
+CR = Cashier
+KT = Kitchen Staff
+HC = Head Chef
+MA = Manager
