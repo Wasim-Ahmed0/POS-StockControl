@@ -1,0 +1,14 @@
+1, 2 x Kebab Wrap, 1 x Mango Juice, 1 x Mixed Fruit, 2 x Chicken Shish, 2 x Kebab Wrap, 2 x ZeZe Salad, 3 x Cheese Balls, 4 x Coca Cola, Wasim Ahmed, 20/11/2021 23:07
+2, 1 x Tropical Juice, 2 x Mango Juice, 3 x Waffles, Wasim Ahmed, 20/11/2021 23:22
+3, 1 x Coca Cola, 1 x Lamb Shish, 2 x Chicken Donner, 2 x Lemonade, 3 x Mixed Grill, 3 x Tango, Wasim Ahmed, 21/11/2021 23:24
+4, 1 x Tango, 2 x Coca Cola, 2 x Grilled Halloumi, 3 x Chicken Wrap, Wasim Ahmed, 25/11/2021 13:51
+5, 3 x Chicken Donner, 3 x Lemonade, Wasim Ahmed, 02/12/2021 13:56
+6, 1 x Waffles, 2 x Coca Cola, 2 x Tango, 4 x Kebab Wrap, Wasim Ahmed, 09/12/2021 14:34
+7, 3 x Chicken Donner, 3 x Pineapple Juice, Wasim Ahmed, 27/12/2021 22:12
+8, 1 x Mango Juice, 1 x Strawberry ice cream, Wasim Ahmed, 02/01/2022 17:26
+9, 4 x Kebab Wrap, 5 x Coca Cola, Wasim Ahmed, 09/01/2022 19:53
+10, 2 x Chicken Shish, 2 x Lemonade, Daniel Parks, 27/02/2022 18:13
+11, 1 x Mixed Grill, 2 x Coca Cola, 2 x Orange Jucie, 3 x Chicken Shish, Wasim Ahmed, 20/03/2022 18:05
+12, 2 x Cranberry Juice, 2 x Kebab Wrap, Wasim Ahmed, 24/03/2022 14:03
+13, 2 x Chicken Shish, 2 x Tango, Wasim Ahmed, 24/03/2022 14:13
+14, 1 x Chicken Shish, 1 x Lamb Donner, 1 x ZeZe Salad, 2 x Chicken Donner, 2 x Mixed Fruit, 2 x Mixed Grill, 2 x Orange Jucie, 2 x Pineapple Juice, 3 x Kebab Wrap, 3 x Strawberry ice cream, 4 x Chicken Wings, 4 x Shish Kebabs, 5 x Chicken Wrap, 5 x Lamb Shish, 6 x Coca Cola, Wasim Ahmed, 24/04/2022 16:12
