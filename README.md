@@ -7,7 +7,7 @@ To run the program:
   - python3 POS.py
 
 ## Documentation
-As part of my coursework for A-Level I needed to document the journey of my program from creation to the final product and this can be found within the file named 'Project Report' in the repository. It includes write-ups of the software development cycle including test cases that i created myself in order to check the program ran as per the requirements of the client.
+As part of my coursework for A-Level I needed to document the journey of my program from creation to the final product and this can be found within the file named 'Project Report' in the repository. It includes documentation for the software development cycle including test cases that I created myself in order to check the program ran as per the requirements of the client.
 
 Users with different roles (E.g Manager, Chef, Waiter etc) and their logins will be found in a file named 'Account Structure'. However the log in for the Manager is:
 Username - WAhmed007
